@@ -1,4 +1,4 @@
-with open('input/day4.txt') as f:
+with open('input/day04.txt') as f:
     t = f.read()
 arr = [list(i) for i in t.split('\n')]
 

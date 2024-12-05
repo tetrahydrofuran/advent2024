@@ -4,7 +4,7 @@ from collections import Counter
 list1 = []
 list2 = []
 
-with open('input/day1.txt') as f:
+with open('input/day01.txt') as f:
     t = f.readlines()
 
 for i in t:

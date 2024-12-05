@@ -30,7 +30,7 @@ def level_safe_damped(l):
     return s
 
 
-with open('input/day2.txt') as f:
+with open('input/day02.txt') as f:
     t = f.readlines()
 
 levels = []
